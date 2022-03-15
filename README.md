@@ -13,6 +13,6 @@ Features
 
 Screenshots
 
-![swiftui](https://github.com/sfmurat/swiftui-json-app-Stories/blob/2b6117214ffcea85aed3ff2fef99019a41c09b31/screenshot1.png)
-![swiftui](https://github.com/sfmurat/swiftui-json-app-Stories/blob/2b6117214ffcea85aed3ff2fef99019a41c09b31/screenshot2.png)
-![swiftui](https://github.com/sfmurat/swiftui-json-app-Stories/blob/2b6117214ffcea85aed3ff2fef99019a41c09b31/screenshot3.png)
+![swiftui](https://github.com/sfmurat/swiftui-json-app-Stories/blob/2b6117214ffcea85aed3ff2fef99019a41c09b31/screenshot1.png | width=100)
+![swiftui](https://github.com/sfmurat/swiftui-json-app-Stories/blob/2b6117214ffcea85aed3ff2fef99019a41c09b31/screenshot2.png | width=100)
+![swiftui](https://github.com/sfmurat/swiftui-json-app-Stories/blob/2b6117214ffcea85aed3ff2fef99019a41c09b31/screenshot3.png | width=100)

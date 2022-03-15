@@ -1,0 +1,83 @@
+[
+    {
+        "id":0,
+        "name":"Mary",
+        "cover":"Mary",
+        "content":" Mary Snyder is American. She is from Michigan. She is a teacher at METU. Her class is small, but it is nice. The students aren't all from Turkey.\r\r Robab is from Iran. Mohan is from India and Habib is from Egypt. Mrs. Snyder is a very good teacher.",
+        "read":false,
+        "cat":"beginner"
+    },
+    {
+        "id":1,
+        "name":"Hanako",
+        "cover":"Hanako",
+        "content":" Hanako Sato, a well-know businesswoman, is  the new director of Pop Fun, an international record compant with two offices in Japan.\r\r Mrs. Sato is the first woman to direct the company's Tokyo office in its fifteen-year history.\r\r Mrs. Sato is also a succesful housewife and mother.She and her husband, Taro Sato, have got two daughters.\r\r Tomiko, 24, is a secretary for Japon Airlines in New York City. Akiko, 19, is a student at New York University.",
+        "read":true,
+        "cat":"beginner"
+    },
+    {
+        "id":2,
+        "name":"Longleat House",
+        "cover":"House",
+        "content":" Longleat House is 140 kilometres west of London, between the cities of Salisbury and Bath. The house is the home of Lord Bath. & is about 400 years old. Visitors can walk through and look at the beautiful rooms and they can see the antique furniture in the rooms.\r\r There is also a Safari Park at Longleat House. Visitors can drive through the park and see many animals there.\r\r Longleat House is open every day from 10 o'clock in the morning to 6 o'clock in the evening. The Safari Park is open only in the summer. ",
+        "read":false,
+        "cat":"beginner"
+    },
+    {
+        "id":3,
+        "name":"New York University",
+        "cover":"Nyu",
+        "content":" New York University is in Greenwich Village. Students can get almost everything they need near the university campus. There is a post office on 9th Street. There is a bank on 5*h Avenue, and there are two on 8^h Street. The restaurants and coffee shops in Greenwhich Village are very popular. ",
+        "read":false,
+        "cat":"beginner"
+    },
+    {
+        "id":4,
+        "name":"University of London",
+        "cover":"Lu",
+        "content":" The University of London is in Bloomsbury. It was founded in 1836. There are many other famous buildings in Bloomsbury. The British Museum, which is near the university, is one of these buildings. There are also many restaurants and coffee shops, where you can buy things to eat. The restaurants are not always very cheap, but the coffee shops are excellent for the price. ",
+        "read":false,
+        "cat":"intermediate"
+    },
+    {
+        "id":5,
+        "name":"Jim",
+        "cover":"Jim",
+        "content":" Jim Chapman, a famous cameraman, is the new assistant director of Video Sound, a large film company. It has fifty-two offices all over the world. Mr. Chapman is the first American to work at the company's Paris office in its thirty-year history. Mr. Chapman is not married. He's got a sister - Mary. She lives with her friend Paul in London. She goes to the Faculty of Arts at the University of London. There are also the Faculties of Science, Engineering, Medicine and Music there. ",
+        "read":true,
+        "cat":"intermediate"
+    },
+    {
+        "id":6,
+        "name":"Kate",
+        "cover":"Kate",
+        "content":" My name is Catherine, but I'm called 'Kate' by my friends. I live near Leeds, in the north-east of England. I'm a dental nurse. I work for a young Australian dentist. He's very nice and he's a very good dentist, but I don't like my job very much.\r\r My sister is called Bianca. She's married with two children, a girl and a boy, and lives in a house near London, in a town called Enfield. She's a teacher. She teaches in a big school in the north of London. She likes her job very much.\r\r My brother's name is George. He doesn't have a job. He's unemployed.",
+        "read":false,
+        "cat":"intermediate"
+    },
+    {
+        "id":8,
+        "name":"The Garston Family",
+        "cover":"Garston",
+        "content":" Mr. and Mrs. Garston live in a small village near London. They've got two dogs. Their names are Bruce and Spot. The dogs eat meat, biscuits and special dog food. Mr. Garston buys their food in London because the shops in their village don't sell dog food. The Garstons have got neighbours, too, but they don't like Bruce and Spot because they've got a cat. The postman doesn't like the dogs, either.\r\r Mr. Garston goes to London every day because he works there. He comes home at six. The dogs always wait for him. They stand near the door and bark. They are happy because they go for a long walk in the evening with Mr. Garston.",
+        "read":false,
+        "cat":"intermediate"
+    },
+    {
+        "id":9,
+        "name":"San Francisco",
+        "cover":"Sf",
+        "content":" San Francisco is in the State of California in the west of the United States. It is near the Pacific Ocean. People think it is the capital of California, but it isn't. First, people from Spain lived there. Today, Austrians, Italians, Chinese and others live in the city with Americans.\r\r The Chinese live in Chinatown. There are many Chinese restaurants there. The houses, post boxes and telephones in the streets are very interesting. This part of the town is exactly like China.\r\r Fisherman's Wharf is another place where tourists want to go. You can find a table in a nice little restaurant near the sea there. You can eat sea food and look at the Golden Gate Bridge. You can watch the ships passing under it and the cars crossing it. The Golden Gate Bridge is the symbol of San Francisco.\r\r After you finish your meal, you can take a boat trip to Alcatraz. Alcatraz was a famous prison between 1866 and 1920, but only tourists go there now.\r\r San Francisco is different from other American cities. It is more European. The sun always shines there and there are a lot of things you can do at night - you can go to the nightclubs, discos, restaurants, cinemas and theatres. That's why a lot of young people want to live in San Francisco. ",
+        "read":false,
+        "cat":"advanced"
+    },
+    {
+        "id":10,
+        "name":"William Shakespeare",
+        "cover":"Shakespeare",
+        "content":" William Shakespeare was born in Stratford on April 23rd, 1564. His father, John Shakespeare, was an important man in the town - William did not come from a poor family.\r\r When he was eighteen, William married Anne Hathaway in Stratford. But he didn't want to stay there. He wanted to be an actor and the best theatres were in London. So, in 1587, William went to London, where he worked as an actor in a theatre called The Rose.\r\r He began to write plays for the actors. He wrote Romeo and Juliet, Julius Caesar, Richard II, Antony and Cleopatra and many more. Everyone liked his plays, and he became famous.\r\r When James I became King in 1603, Shakespeare worked for him, and performed his plays for the King and his friends. He also worked at the famous Globe Theatre. This theatre presented his last play, Henry VIII. There was a gun in this play, and fire from the gun burned the theatre down.\r\r In 1610 Shakespeare went back to Stratford. He wanted to live there with his family, but he died on April 23rd, 1610. He was only forty-six years old. ",
+        "read":false,
+        "cat":"advanced"
+    }
+
+]

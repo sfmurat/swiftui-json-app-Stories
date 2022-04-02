@@ -1,4 +1,4 @@
-basic json reading and updating project in Swiftui 
+Basic json reading and updating project in Swiftui 
 
 Features
 
